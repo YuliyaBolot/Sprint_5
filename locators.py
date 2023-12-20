@@ -24,7 +24,7 @@ enter_button = driver.find_element(By.XPATH, ".//form[@class = 'Auth_form__3qKeq
 # Кнопка «Выйти» из аккаунта
 exit_button = driver.find_element(By.XPATH, ".//ul[@class = 'Account_list__3KQQf mb-20']//button[@class = 'Account_button__14Yp3 text text_type_main-medium text_color_inactive']")
 
-# Конструктор
+# Иконка Конструктор
 constructor = driver.find_element(By.LINK_TEXT, "Конструктор")
 
 # Логотип Stellar Burgers
