@@ -22,4 +22,3 @@
 3. Тест по переходу к разделу «Начинки» - test_for_section_fillings.py
 
 
-# Sprint_5
